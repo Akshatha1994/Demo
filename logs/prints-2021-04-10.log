@@ -1,0 +1,6 @@
+22:28:03.536 [main] INFO  resources.baseClass - Driver is initialized
+22:28:07.511 [main] INFO  resources.baseClass - homepage is intialized
+22:28:07.695 [main] INFO  resources.baseClass - Assertion is verified
+22:28:17.252 [main] INFO  resources.baseClass - login button clicked
+22:28:17.264 [AsyncHttpClient-1-2] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+22:28:26.474 [main] INFO  resources.baseClass - login button clicked

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-13T16:41:15 CEST" name="Suite" finished-at="2021-04-13T16:41:46 CEST" duration-ms="30561">
+    <groups>
+    </groups>
+    <test started-at="2021-04-13T16:41:15 CEST" name="main execution1" finished-at="2021-04-13T16:41:38 CEST" duration-ms="22791">
+      <class name="company.ValidateNavigationBar">
+        <test-method is-config="true" signature="beforetesting()[pri:0, instance:company.ValidateNavigationBar@52d239ba]" started-at="2021-04-13T16:41:15 CEST" name="beforetesting" finished-at="2021-04-13T16:41:30 CEST" duration-ms="15148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetesting -->
+        <test-method signature="homepage()[pri:0, instance:company.ValidateNavigationBar@52d239ba]" started-at="2021-04-13T16:41:30 CEST" name="homepage" finished-at="2021-04-13T16:41:31 CEST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="testcaseclose()[pri:0, instance:company.ValidateNavigationBar@52d239ba]" started-at="2021-04-13T16:41:31 CEST" name="testcaseclose" finished-at="2021-04-13T16:41:38 CEST" duration-ms="7142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseclose -->
+      </class> <!-- company.ValidateNavigationBar -->
+    </test> <!-- main execution1 -->
+    <test started-at="2021-04-13T16:41:15 CEST" name="main execution" finished-at="2021-04-13T16:41:46 CEST" duration-ms="30561">
+      <class name="company.mainClass">
+        <test-method is-config="true" signature="beforetesting()[pri:0, instance:company.mainClass@2b5f4d54]" started-at="2021-04-13T16:41:15 CEST" name="beforetesting" finished-at="2021-04-13T16:41:31 CEST" duration-ms="15368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetesting -->
+        <test-method signature="homepage(java.lang.String, java.lang.String)[pri:0, instance:company.mainClass@2b5f4d54]" started-at="2021-04-13T16:41:31 CEST" name="homepage" data-provider="getData" finished-at="2021-04-13T16:41:33 CEST" duration-ms="2303" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dalveakshatha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="testcaseclose()[pri:0, instance:company.mainClass@2b5f4d54]" started-at="2021-04-13T16:41:33 CEST" name="testcaseclose" finished-at="2021-04-13T16:41:39 CEST" duration-ms="5840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseclose -->
+        <test-method is-config="true" signature="beforetesting()[pri:0, instance:company.mainClass@2b5f4d54]" started-at="2021-04-13T16:41:39 CEST" name="beforetesting" finished-at="2021-04-13T16:41:44 CEST" duration-ms="4748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetesting -->
+        <test-method signature="homepage(java.lang.String, java.lang.String)[pri:0, instance:company.mainClass@2b5f4d54]" started-at="2021-04-13T16:41:44 CEST" name="homepage" data-provider="getData" finished-at="2021-04-13T16:41:45 CEST" duration-ms="1251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akshatha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="testcaseclose()[pri:0, instance:company.mainClass@2b5f4d54]" started-at="2021-04-13T16:41:45 CEST" name="testcaseclose" finished-at="2021-04-13T16:41:46 CEST" duration-ms="989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseclose -->
+      </class> <!-- company.mainClass -->
+    </test> <!-- main execution -->
+  </suite> <!-- Suite -->
+</testng-results>
